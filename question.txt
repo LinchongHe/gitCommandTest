@@ -12,3 +12,5 @@ test5
 
 rebase 3
 rebase 4
+
+这是release-1.0.0中写的内容
